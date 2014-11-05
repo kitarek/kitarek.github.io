@@ -18,7 +18,7 @@ not a fun of sharing each stupid thing it comes to my mind.
 
 Finally after a few months from writing a blog entry about 
 [piece of my software](http://www.cognifide.com/blogs/cq/cq-unix-toolkit/) I
-decided to share some of my daily journays/adventures related to my passion
+decided to share some of my daily journeys/adventures related to my passion
 which is `IT` or rather linux & programming (mainly Java, but I used to write
 shell scripts a lot) as well as some soft (nicer) things like travels, events,
 music (progressive rock rulez!). Moreover it's a great chance to sharpen my
